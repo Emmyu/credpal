@@ -1,6 +1,8 @@
 # CredPal App
 
 This is the Flutter implementation of the **CredPal** app — a modern mobile UI showcasing pay-later shopping features with responsive design.
+![Image Alt Text](assets/images/Screenshot_1743954943.png)
+
 
 ## 📱 Project Overview
 
