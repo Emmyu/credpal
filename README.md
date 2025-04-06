@@ -1,4 +1,5 @@
 # credpal
+<<<<<<< HEAD
 
 A new Flutter project.
 
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+CredPal is a modern mobile UI for a pay-later shopping experience, built with Flutter. The app provides a sleek and responsive layout for browsing and purchasing products with an intuitive user interface. It's designed for Android devices and features smooth navigation and visually appealing design elements.
+>>>>>>> 65d7c5f7e93349b2cfbafc36dc5539b2607a5a27
