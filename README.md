@@ -10,7 +10,7 @@ This is the Flutter implementation of the **CredPal** app — a modern mobile UI
 - **Name:** CredPal  
 - **Version:** 1.0.0+1  
 - **Flutter SDK:** ^3.6.0  
-- **Platform:** Android (with mobile-first design)
+- **Platform:** Android (with mobile-first design) / Web
 
 ## 🧩 Features
 
